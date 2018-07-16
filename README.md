@@ -8,12 +8,12 @@ The case study showcases some pandapower functionality and is also used in a ref
 You can use the following BibTex entry:
 
 ```
-@article{pandapower,
+	@ARTICLE{pandapower.2018,
 	author = {{Thurner}, L. and {Scheidler}, A. and {Sch{\"a}fer}, F. and {Menke}, J.-H. and {Dollichon}, J. and {Meier}, F. and {Meinecke}, S. and {Braun}, M.},
-	title = "{pandapower - an Open Source Python Tool for Convenient Modeling, Analysis and Optimization of Electric Power Systems}",
-	year = 2018,
-	journal = {IEEE Transaction on Power Systems (to be published)},
-	url = {https://arxiv.org/abs/1709.06743}
+	journal={IEEE Transactions on Power Systems},
+	title={pandapower - an Open Source Python Tool for Convenient Modeling, Analysis and Optimization of Electric Power Systems},
+	year={2018},
+	doi={10.1109/TPWRS.2018.2829021}
 	}
 ```
 
