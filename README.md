@@ -23,3 +23,26 @@ The case study consists of three parts, which are available in interactive jupyt
 3. Time series simulation for one day optimising switching states and transformer taps considering active power losses, line loading, transformer loading and voltage constraints ([time_series_simulation.ipynb](time_series_simulation.ipynb))
 
 The case study works with pandapower 1.4.3.
+
+
+## How to use it
+
+### Get the source
+
+```
+git clone https://github.com/e2nIEE/pandapower-paper
+```
+
+### Install
+
+It's recommended to use a virtualenv, it's up to you!
+
+```
+pip install -r requirements.txt
+```
+
+### Start notebook server
+
+```
+jupyter notebook
+```
