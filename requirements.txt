@@ -1,2 +1,3 @@
 pandapower
 python-igraph
+xlrd
