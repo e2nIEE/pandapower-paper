@@ -1,3 +1,4 @@
 pandapower
 python-igraph
 xlrd
+numba
